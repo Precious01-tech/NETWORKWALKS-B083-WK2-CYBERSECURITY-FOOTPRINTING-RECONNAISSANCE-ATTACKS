@@ -191,7 +191,7 @@ Role: Cybersecurity Student / Intern (Batch B083)
 
 Program: NetworkWalks Cybersecurity Internship
 
-LinkedIn:** [Kehinde Precious Akinyami]
+LinkedIn:** https://www.linkedin.com/in/kehinde-precious-akinyami-5015133a2
 
 * **GitHub:** [Precious01-tech](https://github.com/Precious01-tech)
 * 
